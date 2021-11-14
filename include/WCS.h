@@ -2,5 +2,4 @@
 #ifndef wcs
 #define wcs
 #include "cmdStr.h"
-
 #endif

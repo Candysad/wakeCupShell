@@ -1,1 +1,12 @@
-ls$pwd$date$
+cat
+clear
+date
+echo
+grep
+ls
+mkdir
+mv
+pwd
+rm
+wc
+$
